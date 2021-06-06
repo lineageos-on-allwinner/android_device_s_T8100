@@ -1,0 +1,6 @@
+[
+  {
+    "repository": "android_device_s_ceres-common",
+    "target_path": "device/s/ceres-common"
+  }
+]
